@@ -1,5 +1,3 @@
-import 'dart:async';
-
 import 'package:captcha_new/config.dart';
 import 'package:captcha_new/v3_captcha_test.dart';
 import 'package:flutter/foundation.dart';
@@ -16,4 +14,3 @@ void main() async {
 
   runApp(const MyApp());
 }
-
